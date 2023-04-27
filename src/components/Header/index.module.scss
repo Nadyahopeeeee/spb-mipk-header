@@ -1,0 +1,35 @@
+.headerWrapper {
+  background-color: #f8f9fa;
+}
+
+.header {
+  max-width: 1350px;
+  display: flex;
+  height: 153px;
+}
+
+.headerConteiner {
+  padding: 0 36px;
+}
+
+.headerContent {
+  display: flex;
+}
+
+.headerSocial {
+  display: flex;
+}
+
+.headerForm {
+  display: flex;
+  padding: 45px 0;
+}
+
+.navigationList {
+  display: flex;
+}
+
+.navigationItem {
+  list-style-type: none;
+  text-transform: uppercase;
+}
